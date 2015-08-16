@@ -1,0 +1,9 @@
+# log files
+*.log
+
+# compile file and directory
+*.pyc
+
+# idea
+.idea/
+*.iml
